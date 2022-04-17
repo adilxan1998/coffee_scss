@@ -1,0 +1,27 @@
+.about-us__inner {
+  height: 450px;
+  background-image: url(../img/hero-img.png);
+  background-repeat: no-repeat;
+}
+
+.about-us__box {
+  width: 445px; 
+  padding-top: 100px;
+  margin-left: 85px;  
+}
+
+.about-us__title {
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FEFCF7;
+}
+
+.about-us__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FEFCF7;
+}

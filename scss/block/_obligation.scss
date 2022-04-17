@@ -1,0 +1,28 @@
+.obligation__inner {
+  margin-top: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.obligation__box {
+  width: 540px;
+}
+
+.obligation__title {
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  color: #333D4B;
+}
+
+.obligation__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #333D4B;  
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}

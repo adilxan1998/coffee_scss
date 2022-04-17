@@ -1,0 +1,35 @@
+.quality__inner {
+  height: 474px;
+  margin-top: 250px;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 8px;
+  background-color: #282F38FF;
+}
+
+.quality__box {
+  width: 500px;
+  padding-top: 88px;
+}
+
+.quality__title {
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FEFCF7;
+}
+
+.quality__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FEFCF7;  
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.quality__img {
+  margin-top: -80px;
+}
